@@ -1,0 +1,22 @@
+  *{
+    margin: 0;
+    padding: 0;
+ }
+
+ .kotak1 p {
+    margin: 10px;
+    width: 100px;
+    height: 100px;
+    background: red;
+    border: 1px solid black;
+ }
+ .kotak2 p{
+    margin-top: 50px;
+    margin-bottom: 100px;
+    margin-right: 100px;
+    margin-left: 50px;
+    width: 100px;
+    height: 100px;
+    background: red;
+    border: 1px solid black;
+ }

@@ -1,0 +1,21 @@
+ table, th, td {
+    border: 1px solid;
+ }
+
+ table {
+    wudth: 100%;
+ }
+
+ th {
+    height: 70px;
+ }
+ td {
+    text-align: center;
+ }
+ th, td {
+    padding: 15px;
+    text-align: Left;
+ }
+ th, td {
+    border-bottom: 1px solid #ddd;
+ }

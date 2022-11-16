@@ -1,0 +1,25 @@
+ /*ini id*/
+ #header{
+
+ }
+ /*ini clas*/
+ .main{
+
+ }
+ /*ini class tanpa class*/
+ .main p{
+
+ }
+
+ /*ini class isi class*/
+ .main .spain {
+
+ }
+
+ /*ini tanpa class dan id*/
+ h3{
+
+ }
+ p{
+    
+ }

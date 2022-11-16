@@ -1,0 +1,27 @@
+html,body{
+    padding: 0;
+    margin:0;
+    font-family: sans-serif;
+}
+.menu{
+    background-color: #3141ff;
+}
+.menu ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+.menu > ul > li {
+    float: Left;
+}
+.menu li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.menu li a:hover{
+    background-color: #2525ff;
+}
